@@ -1,0 +1,20 @@
+body{
+    background-color: #333;
+}
+
+.weeks{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.week{
+    width: 13px;
+    height: 13px;
+    border: 1px solid black;
+    background-color: beige;
+    margin: 3px;
+}
+
+.past{
+    background-color: cadetblue;
+}
